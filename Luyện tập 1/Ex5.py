@@ -1,0 +1,22 @@
+#Bài 5
+name= str("Nguyễn Trần Bảo Duy")
+age= int(19)
+average_score= float(9.5)
+age_next_year= age+1
+doubled_score= average_score*2
+type(name)
+type(age)
+type(average_score)
+type(age_next_year)
+type(doubled_score)
+print("Bài 5")
+print("Họ và tên: ", name)
+print("Tuổi năm nay: ",age)
+print("Điểm trung bình:",average_score)
+print("Tuổi năm tiếp theo: ",age_next_year)
+print("Nhân đôi điểm trung bình: ",doubled_score)
+print(type(name))
+print(type(age))
+print(type(average_score))
+print(type(age_next_year))
+print(type(doubled_score))
